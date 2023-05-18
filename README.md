@@ -3,7 +3,8 @@
 En esta serie de videos en Youtube se aprenden las tecnicas de visualizacion
 para utilizar mejor la libreria Matplotlib de pandas, 
 # Graficos de tendencias
-   <img src="plot.png" width="800" />
+   <img src="plot1.png" width="800" />
+    <img src="plot2.png" width="800" />
 # Graficos de Barras
 # Pie Chart o Grafico circular
 # Stack plots o grafico de volumen
