@@ -8,8 +8,12 @@ para utilizar mejor la libreria Matplotlib de pandas,
   
 # Graficos de Barras
  <img src="plot3.png" width="800" />
+ 
 # Pie Chart o Grafico circular
+<img src="plot.png" width="800" />
+
 # Stack plots o grafico de volumen
+
 # Histogramas
 # Grafico de dispersion
 # Ploting time series, o graficos que se alimentan de info online
