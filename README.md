@@ -10,7 +10,7 @@ para utilizar mejor la libreria Matplotlib de pandas,
  <img src="plot3.png" width="800" />
  
 # Pie Chart o Grafico circular
-<img src="plot.png" width="800" />
+<img src="plot15.png" width="800" />
 
 # Stack plots o grafico de volumen
 
