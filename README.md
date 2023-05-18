@@ -13,8 +13,16 @@ para utilizar mejor la libreria Matplotlib de pandas,
 <img src="plot15.png" width="800" />
 
 # Stack plots o grafico de volumen
+<img src="plot1.png" width="800" />
 
 # Histogramas
+<img src="plot6.png" width="800" />
+
 # Grafico de dispersion
-# Ploting time series, o graficos que se alimentan de info online
+<img src="plot7.png" width="800" />
+<img src="plot8.png" width="800" />
+
 # Subplots graficos de Python con la funcion orientada a objetos
+<img src="plot9.png" width="800" />
+<img src="plo10.png" width="800" />
+<img src="plo11.png" width="800" />
