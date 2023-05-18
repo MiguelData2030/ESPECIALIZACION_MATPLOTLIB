@@ -27,5 +27,5 @@ para utilizar mejor la libreria Matplotlib de pandas,
 
 # Subplots graficos de Python con la funcion orientada a objetos
 <img src="plot10.png" width="800" />
-
+<img src="plot11.png" width="800" />
 
